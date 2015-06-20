@@ -1,0 +1,500 @@
+   10  java version
+   11  java jvm
+   12  version
+   13  java
+   14  javac -version
+   15  ssh gpatel0099@oakton.edu
+   16  ssh gpatel0099@occ.edu
+   17  sudo
+   18  sduo sh gpatel0099@occ.edu
+   19  sudo ssh gpatel0099@occ.edu
+   20  sudo ssh gpatel0099@occ.edu
+   21  sudo ssh gpatel0099@occ.edu
+   22  sudo ssh gpatel0099@oakton.edu
+   23  sudo ssh gpatel0099@csc.oakton.edu
+   24  sudo ssh jpapadem@csc.oakton.edu
+   25  sudo ssh jpapadem@csc.oakton.edu
+   26  sudo ssh jpapadem@occ.edu
+   27  sudo ssh jpapadem@oakton.edu
+   28  sudo ssh jpapadem@occ.edu
+   29  sudo ssh jpapadem@csc.oakton.edu
+   30  sudo ssh jpapadem@csc.oakton.edu
+   31  sudo ssh lpapadem@csc.oakton.edu
+   32  ssh lpapadem@csc.oakton.edu
+   33  ssh gpatel0099@csc.oakton.edu
+   34  ssh jpapadem@csc.oakton.edu
+   35  rerq/
+   36  sudo nano /etc/fstab
+   37  sudo ln -s /Volumes ~/Desktop/Volumes
+   38  sudo rm /etc/fstab
+   39  sudo nano /etc/fstab
+   40  sudo nano /etc/fstab
+   41  open /Volumes
+   42  sudo rm /etc/fstab
+   43  keytool -list -v -keystore mystore.keystore
+   44  java
+   45  /usr/libexec/java_home
+   46  keytool -list -v -keystore /Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home
+   47  keytool -list -v -keystore "/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home"
+   48  keytool -list -v -keystore "/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home"
+   49  1
+   50  keytool.exe -V -list -alias androiddebugkey -keystore "/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home"
+   51  keytool -V -list -alias androiddebugkey -keystore "/Library/Java/JavaVirtualMachines/jdk1.8.0_31.jdk/Contents/Home"
+   52  where lives keytool
+   53  echo $PATH
+   54  java -version
+   55  cd System/Library/Frameworks/JavaVM.framework/Versions
+   56  cd ~System/Library/Frameworks/JavaVM.framework/Versions
+   57  cd System/Library/Frameworks/JavaVM.framework/Versions
+   58  cd ~System/Library/Frameworks/JavaVM.framework/Versions
+   59  cd ~System/Library/Frameworks/JavaVM.framework/Versions
+   60  cd ~/System/Library/Frameworks/JavaVM.framework/Versions
+   61  keytool -list keystore mykeystore.keystore
+   62  keytool -list -v mykeystore.keystore 
+   63  user
+   64  /Users/[iMacs]/.local/share/iMac/Mono for Android/debug.keystore
+   65  /System/Library/Java/JavaVirtualMachines/[VERSION].jdk/Contents/Home/bin/keytool
+   66  keytool -list -v -keystore /Users/[USERNAME]/.local/share/Xamarin/Mono\ for\ Android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+   67  shasum /path/to/file
+   68  keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android 
+   69  ssh jpapadem@csc.oakton.edu
+   70  sudo nvram SystemAudioVolume="%01"
+   71  tail
+   72  history
+   73  tail -f
+   74  ssh jpapadem@csc.oakton.edu
+   75  sqlite
+   76  sqlite3
+   77  ssh jpapademas@csc.oakton.edu
+   78  vncpasswd
+   79  ssh jpapademas@oakton.edu
+   80  ssh jpapadem@csc.oakton.edu
+   81  ssh jpapademas@csc.oakton.edu
+   82  ssh jpapadem@csc.oakton.edu
+   83  ping www.papademas.net
+   84  ssh jpapademas@csc.oakton.edu
+   85  ls
+   86  ssh jpapadem@csc.oakton.edu
+   87  ssh jpapadem@csc.oakton.edu
+   88  using namespace std;
+   89  int main()
+   90  { int x=0; cout<<"Enter the value of x"<<endl;
+   91  g++
+   92  pico t.cpp
+   93  g++ t.cpp -o t
+   94  t
+   95  ls
+   96  rm t.cpp t
+   97  ls
+   98  ssh jpapadem@csc.oakton.edu
+   99  ssh jpapadem@csc.oakton.edu
+  100  ls
+  101  cd android-sdks/
+  102  ks
+  103  cd extras
+  104  cd android/
+  105  ls
+  106  pwd
+  107  cd ..
+  108  ls
+  109  pwd
+  110  cd google/
+  111  ls
+  112  cd gcm
+  113  ls
+  114  cd gcm-client/
+  115  ls
+  116  cd dist/
+  117  ls
+  118  cd android-sdks/
+  119  ls
+  120  cd platform-tools/
+  121  ls
+  122  adb shell
+  123  ./adb shell
+  124  ssh jpapadem@csc.oakton.edu
+  125  cd android-sdks/
+  126  ls
+  127  cd platform-tools/
+  128  ls
+  129  adb kill-server
+  130  adb shell
+  131  ls
+  132  cd adb
+  133  ls -l
+  134  adb
+  135   adb shell
+  136  ./adb shell
+  137  ls
+  138  ./adb shell
+  139  ./adb shell
+  140  ./adb devices
+  141  ./adb devices
+  142  ./adb devices
+  143  ./adb shell
+  144  $ sudo gem install cocoapods
+  145  gem
+  146  gem install cocoapods
+  147  rvm
+  148  rbenv
+  149  $ sudo gem instsudo chown -R [login name] /Library/Ruby/Gems/2.0.0l cocoapods
+  150  sudo chown -R macman /Library/Ruby/Gems/2.0.0l cocoapods
+  151  sudo chown -R imac /Library/Ruby/Gems/2.0.0l cocoapods
+  152  sudo chown -R imac /Library/Ruby/Gems/2.0.0l cocoapods
+  153  sudo chown -R imac/Library/Ruby/Gems/2.0.0l cocoapods
+  154  sudo gem update --system
+  155  sudo gem install cocoapods
+  156  pod setup
+  157  mysqluc -e "help utilities"
+  158  mysqluc -e "help utilities"
+  159  ssh jpapadem@csc.oakton.edu
+  160  telnet localhost 5554
+  161  php
+  162  ping www.papademas.net
+  163  ssh jpapadem@csc.oakton.edu
+  164  git
+  165  git clone https://github.com/rgoomar/itmd411-final
+  166  ls
+  167  cd itmd411-final/
+  168  ls
+  169  cd src
+  170  ls
+  171  cat App.java 
+  172  ls
+  173  cd ,,
+  174  ls
+  175  cd ..
+  176  ls
+  177  cat config.properties 
+  178  ls
+  179  pwd
+  180  ls
+  181  /Volumes/Untitled/oc/OCC\ 170/mps/5/mp5.inp ; exit;
+  182  ssh jpapadem@csc.oakton.edu
+  183  /Applications/Genymotion\ Shell.app/Contents/MacOS/genyshell ; exit;
+  184  /Applications/Genymotion\ Shell.app/Contents/MacOS/genyshell ; exit;
+  185  ssh jpapadem@csc.oakton.edu
+  186  telnet www.papademas.net 25
+  187  telnet papademas.net 25
+  188  telnet autotimes.com 25
+  189  telnet www.autotimes.com 25
+  190  telnet papademas.net 25
+  191  telnet papademas.net 25
+  192  ssh jpapadem@csc.oakton.edu
+  193  telnet papademas.net 25
+  194  telnet www.autotimes.com 25
+  195  telent mail.autotimes.com 25
+  196  telnet mail.autotimes.com 25
+  197  telnet www.papadmeas.net 25
+  198  telnet www.papademas.net 25
+  199  telnet www.papademas.net 25
+  200  telnet www.papademas.net 25
+  201  telnet www.papademas.net 25
+  202  telnet autotimes.com 25
+  203  telnet www.autotimes.com
+  204  telnet www.autotimes.com 25
+  205  telnet www.autotimes.com 25
+  206  telnet www.autotimes.com 25
+  207  telnet mail.autotimes.com
+  208  telnet mail.autotimes.com 25
+  209  telnet mail.autotimes.com 25
+  210  telnet mail.autotimes.com 25
+  211  telnet www.autotimes.com 25
+  212  ssh jpapadem@csc.oakton.edu
+  213  . b.sh
+  214  . b.sh
+  215  ssh jpapadem@csc.oakton.edu
+  216  telnet www.autotimes.com
+  217  telnet www.autotimes.com 25
+  218  telnet www.autotimes.com 25
+  219  telnet www.autotimes.com 25
+  220  telnet mail.autotimes.com 25
+  221  telnet www.autotimes.com
+  222  telnet www.autotimes.com 25
+  223  telnet www.autotimes.com 25
+  224  telnet www.autotimes.com 25
+  225  telnet www.autotimes.com 25
+  226  nslookup -type=mx www.autotimes.com
+  227  nslookup -type=mx autotimes.com
+  228  nslookup -type=mx autotimes.com
+  229  nslookup -type=mx www.autotimes.com
+  230  nslookup -type=mx mail.autotimes.com
+  231  nslookup -type=mx autotimes.com
+  232  telnet www.autotimes.com 25
+  233  telnet www.autotimes.com 587
+  234  nslookup JPIMAC682F
+  235  lserver
+  236  lserve
+  237  netstat
+  238  lserve
+  239  nslookup 
+  240  telnet mail.autotimes.com 25
+  241  telnet mail.autotimes.com 25
+  242  telnet www.autotimes.com 25
+  243  telnet www.autotimes.com 25
+  244  telnet www.autotimes.com 25
+  245  telnet www.autotimes.com 25
+  246  telnet www.autotimes.com 25
+  247  telnet www.autotimes.com 25
+  248  telnet www.autotimes.com 25
+  249  telnet www.autotimes.com 25
+  250  telnet www.autotimes.com 25
+  251  nslookup www.autotimes.com
+  252  ping www.autotimes.com
+  253  telnet www.autotimes.com 25
+  254  telnet www.autotimes.com 25
+  255  nslokup -type=ptr 50.151.171.195
+  256  nslookup -type=ptr 50.151.171.195
+  257  telnet mail.autotimes.com 25
+  258  telnet www.autotimes.com 25
+  259  telnet www.autotimes.com 25
+  260  telnet www.autotimes.com 25
+  261  telnet www.autotimes.com 25
+  262  telnet www.autotimes.com 25
+  263  ping www.papademas.net
+  264  telnet www.autotimes.com 25
+  265  telnet www.autotimes.com 25
+  266  ping www.apapdemas.net
+  267  ping www.papademas.net
+  268  telnet www.autotimes.com 25
+  269  telnet mail.autotimes.com 25
+  270  ping www.autotimes.com
+  271  telnet www.papademas.net 25
+  272  telnet www.papademas.net 
+  273  telnet mail.autotimes.com 25
+  274  telnet www.autotimes.com 25
+  275  telnet www.autotimes.com 25
+  276  telnet www.autotimes.com 
+  277  telnet www.papademas.net
+  278  telnet 50.151.171.195
+  279  telnet 50.151.171.195
+  280  telnet www.autotimes.com 25
+  281  telnet 50.151.171.195
+  282  telnet 50.151.171.195
+  283  telnet 50.151.171.195
+  284  ftp
+  285  telnet 50.151.171.195 587
+  286  telnet www.autotimes.com 587
+  287  telnet www.autotimes.com 25
+  288  telnet www.autotimes.com 587
+  289  telnet autotimes.com 587
+  290  telnet www.autotimes.com 587
+  291  telnet autotimes.com 587
+  292  telnet autotimes.com 587
+  293  telnet autotimes.com 25
+  294  telnet www.autotimes.com 25
+  295  telnet www.papademas.net 25
+  296  telnet www.papademas.net 587
+  297  telnet www.papademas.net 587
+  298  telnet www.papademas.net 110
+  299  telnet www.papademas.net 995
+  300  telnet www.autotimes.com 995
+  301  telnet www.autotimes.com 110
+  302  telnet www.autotimes.com 587
+  303  telnet www.autotimes.com 587
+  304  telnet www.autotimes.com 587
+  305  telnet www.autotimes.com 587
+  306  telnet www.autotimes.com 110
+  307  telnet www.autotimes.com 25
+  308  telnet www.autotimes.com 25
+  309  telnet www.autotimes.com 25
+  310  ping mail.autotimes.com
+  311  telnet www.autotimes.com 25
+  312  telnet mail.autotimes.com 25
+  313  telnet mail.autotimes.com 25
+  314  telnet www.autotimes.com 25
+  315  telnet www.autotimes.com 587
+  316  telnet www.autotimes.com 587
+  317  telnet www.autotimes.com 2525
+  318  telnet www.autotimes.com 25
+  319  telnet www.autotimes.com 25
+  320  telnet www.autotimes.com 25
+  321  telnet www.autotimes.com 587
+  322  telnet mail.autotimes.com 587
+  323  telnet www.autotimes.com 25
+  324  telnet www.autotimes.com 25
+  325  telnet www.autotimes.com 587
+  326  ping smtp.comcast.net
+  327  ping mail.comcast.net
+  328  telnet www.autotimes.com 587
+  329  telnet www.autotimes.com 25
+  330  telnet www.autotimes.com 25
+  331  telnet www.papademas.net
+  332  telnet www.autotimes.com 25
+  333  telnet 50.151.171.195 25
+  334  telnet 50.151.171.195 25
+  335  telnet 50.151.171.195 25
+  336  telnet 50.151.171.195 25
+  337  telnet 50.151.171.195 587
+  338  telnet 50.151.171.195 25
+  339  telnet 50.151.171.195 25
+  340  telnet mail.autotimes.com 25
+  341  python
+  342  ping -D -s 1472 www.dslreports.com
+  343  cd Desktop/
+  344  ls
+  345  python ioexample.py 
+  346  python lab01jp.py 
+  347  cd /Users
+  348  cd imac/Documents/tmp/programs/
+  349  ls
+  350  python test.py 
+  351  python test.py 
+  352  ls
+  353  python s
+  354  pythonw
+  355  python sls
+  356  fjf
+  357  jim
+  358  ls
+  359  cd
+  360  dir
+  361  ls -l
+  362  helo
+  363  quit
+  364  ls
+  365  lsexit
+  366  exit
+  367  cd
+  368  cd
+  369  pw
+  370  cd Desktop/
+  371  python test.py 
+  372  cd Desktop/
+  373  cd Desktop/
+  374  python test.py 
+  375  dodod
+  376  python test.py 
+  377  python test.py 
+  378  python test.py 
+  379  python test.py 
+  380  python test.py 
+  381  python test.py 
+  382  python test.py 
+  383  python test.py 
+  384  python test.py 
+  385  python test.py 
+  386  python test.py 
+  387  python test.py 
+  388  python test.py 
+  389  python test.py 
+  390  python test.py 
+  391  python test.py 
+  392  python test.py 
+  393  python test.py 
+  394  python test.py 
+  395  cd Desktop/
+  396  python test.py 
+  397  python test.py 
+  398  python test.py 
+  399  python test.py 
+  400  python test.py 
+  401  python test.py 
+  402  python test.py 
+  403  python test.py 
+  404  python test.py 
+  405  python test.py 
+  406  python test.py 
+  407  python test.py 
+  408  python test.py 
+  409  python test.py 
+  410  python test.py 
+  411  python test.py 
+  412  python test.py 
+  413  python test.py 
+  414  python test.py 
+  415  python test.py 
+  416  python test.py 
+  417  python test.py 
+  418  python test.py 
+  419  python test.py 
+  420  python test.py 
+  421  python test.py 
+  422  python test.py 
+  423  python test.py 
+  424  python test.py 
+  425  python test.py 
+  426  python test.py 
+  427  python test.py 
+  428  python test.py 
+  429  python test.py 
+  430  python test.py 
+  431  python test.py 
+  432  python test.py 
+  433  __init__.py
+  434  __init__.py
+  435  python test.py 
+  436  python test.py 
+  437  python test.py 
+  438  python test.py 
+  439  python test.py 
+  440  python test.py 
+  441  python password_checker_no_echo.py 
+  442  python password_checker_no_echo.py 
+  443  python password_checker_no_echo.py 
+  444  python password_checker_no_echo.py 
+  445  python password_checker_with_echo.py 
+  446  python password_checker_with_echo.py 
+  447  python password_checker_with_echo.py 
+  448  python password_checker_with_echo.py 
+  449  python password_checker_with_echo.py 
+  450  python password_checker_with_echo.py 
+  451  python password_checker_with_echo.py 
+  452  python password_checker_with_echo.py 
+  453  python password_checker_with_echo.py 
+  454  cd Desktop/
+  455  python password_checker_with_echo.py 
+  456  jiff
+  457  jiff
+  458  python password_checker_with_echo.py 
+  459  IFCONFIG
+  460  npm
+  461  ls
+  462  /Volumes/Untitled/school/iit/413/notes/exceptions ; exit;
+  463  history
+  464  git
+  465  git config --global user.name profgit
+  466  git config --global user.email jpapademas@gmail.com
+  467  mkdir repos
+  468  touch check.txt
+  469  git push
+  470  git log
+  471  homebrew
+  472  git
+  473  pwd
+  474  ls
+  475  git -version
+  476  git --version
+  477  git config --global user.name "profgit"
+  478  git config --global user.email "jpapademas@gmail.com"
+  479  git config -l
+  480  git --man
+  481  man git
+  482  git config --global comor.ui true
+  483  git config -l
+  484  git config --global color.ui true
+  485  git config -l
+  486  man git
+  487  ls -a
+  488  pico .gitconfig 
+  489  pico .gitconfig 
+  490  rm repos/
+  491  rm -r repos/
+  492    165  git clone https://github.com/rgoomar/itmd411-final
+  493  git clone https://github.com/profgit/nxtgen
+  494  ls
+  495  cd nxtgen/
+  496  ls
+  497  cat README.md 
+  498  git pull
+  499  touch index.html
+  500  git commit -m "added index.html"
+  501  git push
+  502  ls
+  503  git status
+  504  git add index.html
+  505  git status
+  506  git commit -m "added index.html"
+  507  git push
+  508  git pull
+  509  history > gitcoms.txt
