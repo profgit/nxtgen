@@ -1,0 +1,137 @@
+Linux centos7 - commands
+
+1. change ownership privileges to root for easing various installs, updates, etc.
+
+Perform the following at a command prompt
+
+su root
+
+(put your root password in)
+
+run the following
+
+yum update
+
+Answer y to everything
+
+*Now to ease the finishing up of commands with the remaining steps that follow, install git repository to get a copy of this doc!!
+
+sudo yum install git
+
+2. Next run the following command
+
+yum install docker
+
+Answer y when prompted
+
+3a. Install an awesome desktop (Gnome)
+
+yum  -y groups install “GNOME Desktop”
+
+When complete at a prompt now type...
+
+startx
+
+to get into desktop (follow prompts)
+
+3b. (Optional) To load gnome with a simpler interface at next and future start ups, go to your terminal and create a file by issuing the comand
+
+nano .xinitrc
+
+then in your editor type
+
+exec gnome-session
+
+save and exit out.
+4. Installing LAMP (as super user aka root)
+note- at any time you can eaily swith users in the terminal by the command
+
+su <username>
+
+ex. su root or su cent ...y
+
+a.Install apache
+
+sudo yum install httpd
+
+Answer y when prompted
+
+Once it installs, you can start Apache on your VPS:
+
+sudo systemctl start httpd.service
+--------------------------------------------------------------------------------------------------
+Note- You can do a spot check right away to verify that everything went as planned by visiting your server's public IP address in your web browser (see the note under the next heading to find out what your public IP address is if you do not have this information already):
+
+http://your_server_IP_address/ 
+
+*check also if we can now see each other!
+--------------------------------------------------------------------------------------------------
+The last thing you will want to do is enable Apache to start on boot. Use the following command to do so:
+
+sudo systemctl enable httpd.service 
+
+b. Install MySQL (MariaDB)
+
+sudo yum install mariadb-server mariadb
+
+Answer y when prompted
+
+When the installation is complete, we need to start MariaDB with the following command:
+
+sudo systemctl start mariadb 
+
+Now that our MySQL database is running, we want to run a simple security script that will remove some dangerous defaults and lock down access to our database system a little bit. Start the interactive script by running:
+
+sudo mysql_secure_installation 
+
+-WHEN PROMPTED FOR A PASSWORD, JUST HIT ENTER AS ITS OUR FIRST TIME SETTING UP.
+
+The  next prompt will ask you to now enter a root password when prompted. Go ahead and enter Y and follow the instructions...
+
+For the rest of the questions, you should simply hit the "ENTER" key through each prompt to accept the default values. This will remove some sample users and databases, disable remote root logins, and load these new rules so that MySQL immediately respects the changes we have made.
+
+The last thing you will want to do is enable MariaDB to start on boot. Use the following command to do so:
+
+sudo systemctl enable mariadb.service 
+
+c. Install PHP
+
+sudo yum install php php-mysql
+
+This should install PHP without any problems. We need to restart the Apache web server in order for it to work with PHP. You can do this by typing this:
+
+sudo systemctl restart httpd.service 
+
+Answer y when prompted
+
+5. Installing Wordpress
+
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-centos-7
+
+
+
+6. Set up cron jobs (for backups)
+
+http://www.tecmint.com/11-cron-scheduling-task-examples-in-linux/
+
+
+Great references:
+
+From our lesson today:
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
+
+Installing & configuring KVM adn VIRT (Virtual Terminal)
+
+http://panevinfo.eu/blog/how-to-install-and-configure-kvm-and-virtmanager-on-centos-7/
+
+other:
+
+https://hub.docker.com/account/signup/
+
+http://docs.docker.com/kitematic/nginx-web-server/
+
+
+
+
+
