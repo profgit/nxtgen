@@ -91,6 +91,7 @@ public class SamsMod
 	@EventHandler
 	public void init(FMLInitializationEvent event)
 	{
+		System.out.println("hello world");
 		// crafting recipes
 		GameRegistry.addRecipe(new ItemStack(Items.apple), 
 				"XXX", 
