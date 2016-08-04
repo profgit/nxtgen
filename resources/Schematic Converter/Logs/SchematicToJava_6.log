@@ -1,0 +1,12 @@
+2014-04-05 04-43-03 [FINE]: Ignore Air Blocks is TRUE - removing air blocks found in the schematic from the export list.
+2014-04-05 04-43-03 [INFO]: Added D:\Programming\MCEdit\MCEdit-schematics\SamDungeon.schematic to the list of files to convert.
+2014-04-05 04-44-27 [INFO]: Beginning conversion of D:\Programming\MCEdit\MCEdit-schematics\SamDungeon.schematic (output class: SamDungeon)
+2014-04-05 04-44-27 [FINE]: Output file did not exist:  Creating...
+2014-04-05 04-44-27 [FINE]: Opening file output stream
+2014-04-05 04-44-27 [INFO]: Writing file header
+2014-04-05 04-44-27 [INFO]: Conditional Spawning is FALSE
+2014-04-05 04-44-27 [INFO]: Writing Blocks to file
+2014-04-05 04-44-27 [INFO]: Writing deferred blocks
+2014-04-05 04-44-27 [INFO]: Writing file footer
+2014-04-05 04-44-27 [FINE]: Closing file output stream
+2014-04-05 04-44-27 [INFO]: Conversion of D:\Programming\MCEdit\MCEdit-schematics\SamDungeon.schematic completed successfully.
